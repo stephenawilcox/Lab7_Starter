@@ -1,3 +1,3 @@
 # Lab 7 - Starter
-Stephen Wilcox\
+Stephen Wilcox
 
